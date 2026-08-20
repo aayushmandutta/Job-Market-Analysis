@@ -1,7 +1,5 @@
 # Job-Market-Analysis
 
-# Job Market Analysis
-
 An end-to-end **Data Analytics project** analyzing **742 job records and 42 features** to identify job-market trends, salary patterns, hiring demand, technical skills, and education-related insights.
 
 ## Key Analysis
